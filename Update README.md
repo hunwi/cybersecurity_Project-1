@@ -1,4 +1,4 @@
-# Automated ELK Stack Deployment
+# ELK Stack Server
 The files in this repository were used to configure the network depicted below.
 ![](https://github.com/hunwi/cybersecurity_Project-1/blob/ELK_STACK_PROJECT/Diagram/Elk_Stack_Network_Diagram.jpg)
 [Network Diagram](https://drive.google.com/file/d/1qlQYF26uNDD91J-rWKIPNI8CIsl50glE/view?usp=sharing)
